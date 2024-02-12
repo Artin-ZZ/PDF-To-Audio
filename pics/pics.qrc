@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="images">
+    <file>TEXT.png</file>
+    <file>bc1.jpg</file>
+    <file>bc2.jpg</file>
+    <file>bc3.jpg</file>
+    <file>bc4.jpg</file>
+    <file>bc5.jpg</file>
+    <file>bc6.jpg</file>
+    <file>bc7.png</file>
+    <file>bc8.jpg</file>
+    <file>bc9.jpg</file>
+    <file>bc10.jpg</file>
+    <file>bc11.jpg</file>
+    <file>bc12.png</file>
+    <file>bc13.jpg</file>
+    <file>bc14.jpg</file>
+    <file>bc14.png</file>
+    <file>bc15.jpg</file>
+    <file>bc16.jpg</file>
+    <file>btn_login.png</file>
+    <file>btn_login2.png</file>
+    <file>btn_login3.png</file>
+    <file>btn_login4.png</file>
+    <file>infos-bg.jpg</file>
+    <file>tip.png</file>
+    <file>video-bg.jpg</file>
+  </qresource>
+</RCC>
